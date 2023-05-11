@@ -1,0 +1,73 @@
+body {
+    background-color:darkblue;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+
+}
+
+h1{
+    color: aqua;
+    text-align: left;
+    margin: 0;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+nav li {
+    margin: 0 10px;
+}
+nav a:hover {
+    text-decoration: none;
+    color: aqua;
+}
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h2 {
+    color: black;
+    margin-top: 40px;
+}
+p, ul {
+    font-size: 16px;
+    line-height: 1.5;
+}
+ul li {
+    margin-bottom: 10px;
+    
+}
+
+img {
+    border-radius: 50%;
+    float: right;
+    margin-top: 60px;
+}
+.text{
+    margin-left: auto;
+    float: left;
+    color: aqua;
+    padding: 5px;
+    text-align: left;
+}
+background-image {
+    background-repeat:url(https://mymodernmet.com/wp/wp-content/uploads/archive/4xDCKu3RFxEjkvjWQykc_1082085269.jpeg) ;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-repeat: no-repeat;
+}
