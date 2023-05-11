@@ -20,7 +20,9 @@ git push origin master
 
 ### git@github.com:aluochvivian/My-Portfolio.git
 
-## sketch to image
+## Link to my sketch image
+
+#https://drive.google.com/file/d/1-lGdkyBvZnJJEuOwJCFwG1ZQ-eYzZVJU/view?usp=share_link
 
 
 #Licence
