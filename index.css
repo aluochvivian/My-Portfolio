@@ -40,7 +40,7 @@ main {
     padding: 20px;
 }
 h2 {
-    color: black;
+    color: rgba(0, 0, 0, 0.911);
     margin-top: 40px;
 }
 p, ul {
