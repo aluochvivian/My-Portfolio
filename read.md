@@ -18,7 +18,7 @@ git push origin master
 ```
 ## link to my live page
 
-### git@github.com:aluochvivian/Project.git
+### git@github.com:aluochvivian/My-Portfolio.git
 
 ## sketch to image
 
